@@ -1,0 +1,52 @@
+body
+{
+	background-color: gray;
+}
+
+#content
+{
+	width: 1000px;
+	margin: 0px auto; 
+	background-color: white;
+	border: 1px solid;
+}
+
+#banner
+{
+	height: 150px;
+	background-color: red;
+}
+
+#menu
+{
+	height: 25px;
+	background-color: yellow;
+}
+
+#main_content
+{
+	height: 400px;
+}
+
+#body_content
+{
+	width: 700px;
+	float: left;
+	background-color: green;
+	height: 100%;
+}
+
+#advertisement
+{
+	width: 300px;
+	float: left;
+	background-color: #112233;
+	height: 100%;
+}
+
+#footer
+{
+	height: 60px;
+	clear: both;
+	background-color: pink;
+}

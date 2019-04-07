@@ -1,0 +1,236 @@
+.maindiv{
+	width: 60%;
+	height: 100%;
+	margin: auto;
+}
+
+#banner{
+	height: 20%;
+	background-image: url("./images/Online-casino.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+#topmargin{
+	height: 5%;
+	background-image: url("./images/topbar.gif");
+	background-repeat: repeat-x;
+	background-size: 100% 100%;
+}
+
+#content{
+	display: flex;
+	height: 110%;
+	background-color: blue;
+}
+#leftcontent{
+	float: left;
+	width: 23%;
+	height: 98%;
+	margin: 1% 1%;
+}
+
+#centralcontent{
+	float: center;
+	width: 60%;
+	height: 98%;
+	margin: 1% 0%;
+	padding:0% 0%;
+	/*background-color: #aaff12;*/
+}
+
+#rightcontent{
+	float: right;
+	width: 20%;
+	height: 98%;
+	margin: 1% 1%;
+}
+
+#btnmargin{
+	height: 5%;
+	background-image: url("./images/btmbar.gif");
+	background-repeat: repeat-x;
+	background-size: 100% 100%;
+}
+
+#footer{
+	height: 10%;
+	background-color: blue;
+	padding: 1% 1%;
+	margin: 0% 0%;
+}
+
+#menu1left{
+	height: 25%;
+	background-image: url("./images/menubg2.jpg");
+	background-color:blue;
+	background-size:100% 100%;
+	margin-bottom: 2%;
+	padding-top:2%;
+}
+
+#menu2left{
+	height: 40%;
+	background-color:blue;
+	background-image: url("./images/menubg2.jpg");
+	background-size:100% 100%;
+	margin-bottom: 2%;
+	padding-top: 2%;
+}
+
+#leftads1{
+	height: 15%;
+	background-image: url("./images/genericaddr.jpg");
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+	margin-right:10%;
+	margin-left:10%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	position: relative;
+}
+#leftads2{
+	height: 15%;
+	background-image: url("./images/genericaddr.jpg");
+	background-size:100% 100%;
+	margin-bottom: 2%;
+	margin-left:10%;
+	background-repeat: no-repeat;
+	margin-right:10%;
+	position: relative;
+	
+}
+.playnow{
+	height: 15%;
+	width: 60%;
+	/*background-image: url("./images/playnow.jpg");*/
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	bottom: 2%;
+	left: 20%;
+}
+
+#menubutton1{
+	height: 10%;
+	background-image: url("./images/menubutton1.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	color: white;
+	padding:1% 10%;
+	margin: 0% 2%;
+	margin-bottom: 5%;
+	
+}
+
+#menubutton2{
+	height: 10%;
+	background-image: url("./images/menubutton1.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	color: white;
+	padding:1% 10%;
+	margin: 5% 3%;
+	
+}
+
+ul{
+	background-image: url("./images/menu2button.jpg");
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	padding: 0% 15%;
+	margin: 1% 3%;
+	color: white;
+}
+
+
+#centralbackground{
+	height: 18%;
+	background-size:100% 100%;
+	background-color: red;
+	padding: 1% 1%;
+	margin: 1% 1%;
+}
+#centralads{
+	height: 100%;
+	background-image: url("./images/genericaddr.jpg");
+	background-size: 30% 90%;
+	background-repeat: no-repeat;
+	position: relative;
+	padding: 1% 1%;
+	margin: 0% 0%;
+}
+
+.playnowcenter{
+	height: 12%;
+	width: 15%;
+	/*background-image: url("./images/playnow.jpg");*/
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	position: absolute;
+	bottom: 12%;
+	left: 7%;
+}
+
+#downloadbackground{
+	height: 30%;
+	background-color: magenta;
+	padding: 1% 1%;
+	margin: 1% 1%;
+}
+
+#download{
+	height: 100%;
+	/*width: 100%;*/
+	background-image: url("./images/downloadbg.gif");
+	background-size: 96% 96%;
+	background-repeat: repeat-x;
+	position: relative;
+	margin: 0% 2%;
+	padding: 2% 2%;
+	
+}
+#downloadbtn{
+	height: 13%;
+	width: 100%;
+	position: absolute;
+	padding: 0% 0%;
+	margin: 0% 0%;
+	bottom: 5%;
+	left: 0%;
+}
+h5{
+	font-family: serif;
+	font-size: 100%;
+	color: white;
+	padding: 2% 0%;
+	margin: 0% 0%;
+}
+p{
+	font-family: serif;
+	font-size: 80%;
+	color: white;
+}
+h4{
+	font-family: Arial;
+	font-size: 13px;
+	color: white;
+	padding-top: 0%;
+	padding-left: 50%;
+	margin: 0% 0%;
+	color: yellow;
+}
+#discription{
+	font-family: Arial;
+	font-size: 70%;
+	color: white;
+	padding-left: 32%;
+}
+
+.footertitle{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+}
+
