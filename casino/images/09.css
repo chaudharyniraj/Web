@@ -1,0 +1,61 @@
+body
+{
+	width: 900px;
+	margin: auto;
+}
+#banner
+{
+	height: 126px;
+	background-image: url("./images/Online-casino.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+} 
+#margin1
+{
+	height: 25px;
+	background-image: url("./images/topbar.gif");
+	background-repeat: repeat-x;
+}
+#content
+{
+	height: 800px;
+	background-color: #0D088C;
+	display: flex;
+}
+#left{
+	float: left;
+	width: 200px;
+    height: 780px;
+	background-color: yellow;
+	margin: 1%;
+}
+#main{
+	float: center;
+	width: 500px;
+    height: 780px;
+	background-color: green;
+	margin: 1%;
+}
+#right{
+	float: right;
+	width: 200px;
+    height: 780px;
+	background-color: gray;
+	margin: 1%;
+}
+#margin2
+{
+	height: 22px;
+	background-image: url("./images/btmbar.gif");
+	background-repeat: repeat-x;
+}
+#footer
+{
+	height: 60px;
+	background-color: #0D088C;
+}
+p{
+	color: white;
+	text-align: center;
+}
